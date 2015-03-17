@@ -4,5 +4,5 @@ By default this test will fail due to a duplicate dependency in foo.js. Removing
 npm install
 
 # Run
-node ./foo.js
+node ./run.js
 
